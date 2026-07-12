@@ -3,3 +3,5 @@ This documentation is designed to walk you through how to use Git to track progr
 ```
 git clone https://github.com/Dreyshantel/simple-form.git
 ```
+<img width="900" height="213" alt="image" src="https://github.com/user-attachments/assets/be6aad44-5a29-4c4b-bec6-8caff8df4fc5" />
+
